@@ -4,17 +4,11 @@ description: A hands-on course where I build the same AI chat application using 
 banner: assets/clash-banner.png
 ---
 
-Build once, compare forever. In this course, I'll create the same AI chat application using three different React frameworks and document the real-world differences.
+In this course, I'll create the same AI chat application using three different React frameworks and document the real-world differences.
 
 ## Target Audience
 
 This course is for React developers at any level who want to understand the practical differences between modern React frameworks and meta-frameworks. Whether you're just starting with React frameworks, choosing a stack for your next project, or curious about how these tools compare in real-world scenarios, this course will give you hands-on insights through building the same application three different ways.
-
-Perfect for:
-- Developers new to React frameworks looking to make an informed first choice
-- Experienced React developers wanting to expand their framework knowledge
-- Teams evaluating which framework to adopt for their projects
-- Anyone curious about Next.js, Tanstack Start, or modern SPA development
 
 ## Prerequisites
 
